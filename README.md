@@ -1,6 +1,14 @@
+<div align="center">
+
 ### 👋 Salut, moi c'est Ivan Gely !  
 
-Bienvenue sur mon profil GitHub ! 👋 Je suis **développeur fullstack** avec un fort attrait pour le **front-end**, même si la complexité du **back-end** ne me fait pas peur. J'aime m'aventurer avec les **animations** et la **3D sur le web**. 🚀🎨
+</div>
+
+
+Bienvenue sur mon profil GitHub ! 
+
+Je suis **développeur fullstack** avec un fort attrait pour le **front-end**, même si la complexité du **back-end** ne me fait pas peur. J'aime m'aventurer avec les **animations** et la **3D sur le web**.
+
 
 ---
 
@@ -23,19 +31,17 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis **développeur fullstack** avec u
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ---
 
 ### 📊 Mes Stats GitHub :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-gely&show_icons=true&theme=dark)
-
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-gely&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Où me trouver ?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ivan-gely)  
 
-💬 **N'hésite pas à me contacter !** 😊
+**N'hésite pas à me contacter !** 😊
